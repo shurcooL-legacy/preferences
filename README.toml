@@ -1,5 +1,5 @@
 # My personal preferences.
 
 [indent]
-mode = "tabs"		# The other option is "spaces"
+mode = "tabs"		# It's either "spaces" or "tabs"
 size = 4
